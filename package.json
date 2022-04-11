@@ -1,0 +1,9 @@
+{
+  "name": "@wearespindle/prettier-config-spindle",
+  "version": "1.0.0",
+  "description": "Devhouse Spindle Prettier config",
+  "main": "index.json",
+  "repository": "git@gitlab.wearespindle.com:frontend/playground/prettier-config.git",
+  "author": "Peter Uittenbroek <peter.uittenbroek@wearespindle.com>",
+  "license": "MIT"
+}
